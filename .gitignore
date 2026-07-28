@@ -1,0 +1,24 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+venv/
+env/
+.env
+
+# Data (raw data shouldn't go on GitHub - too large / not portable)
+data/*.csv
+data/*.zip
+
+# Models (large binary files)
+models/*.pkl
+models/*.joblib
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
