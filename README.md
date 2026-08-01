@@ -5,7 +5,7 @@ A machine learning API that predicts house sale prices in Pakistan, built with X
 ## Live Demo
 
 - **API base URL:** _add your Render URL here after deployment_
-- **Interactive docs (Swagger UI):** `https://house-price-predictor-i07p.onrender.com/docs/docs`
+- **Interactive docs (Swagger UI):** `https://house-price-predictor-i07p.onrender.com/docs`
 
 ## Overview
 
